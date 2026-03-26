@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Ayush Kumar Gupta<br>- 3rd year Computer Engineering <br>- Aspiring Full stack Development<br>- Currently learning Python<br>- Curious about  Learning New Tech Stuffs <br>
+Hi! Ayush Kumar Gupta<br>- 3rd year Computer Engineering Student <br>- Aspiring Full stack Development<br>- Currently learning Python<br>- Curious about  Learning New Tech Stuffs <br>
 
 
 ## 🌐 Socials:
