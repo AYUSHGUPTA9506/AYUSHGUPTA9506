@@ -134,11 +134,11 @@ I'm a **final year Computer Science student** who has spent the last few years g
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AYUSHGUPTA9506&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AYUSHGUPTA9506&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AYUSHGUPTA9506)
 
 </div>
 
