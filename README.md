@@ -144,6 +144,16 @@ I'm a **final year Computer Science student** who has spent the last few years g
 
 ---
 
+## 🟩 GitHub Contribution Calendar
+
+<div align="center">
+
+![Ayush's Contribution Chart](https://ghchart.rshah.org/00b300/AYUSHGUPTA9506)
+
+</div>
+
+---
+
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
