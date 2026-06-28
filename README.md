@@ -2,13 +2,13 @@
 
 # Hi there, I'm Ayush! 👋
 
-### 🎓 Final Year CS Student | Aspiring Data Scientist & AI Engineer
+### 🎓 B.Tech CS | 4th Year @ KIIT | AI/ML Engineer & GenAI Developer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Scientist+in+the+Making+🧠;Machine+Learning+Enthusiast+🤖;Generative+AI+Explorer+🚀;Turning+Ideas+into+Projects+💡)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=RAG+Systems+%26+LLM+Applications+🧠;Multi-Agent+AI+Systems+🤖;Generative+AI+%26+NLP+Engineer+🚀;Final+Year+%7C+Open+to+Full-Time+Roles+💼)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AYUSH-GUPTA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-gupta-800976357)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azankiyagovind9506@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AYUSHGUPTA9506)
 [![Profile Views](https://komarev.com/ghpvc/?username=AYUSHGUPTA9506&style=for-the-badge&color=6366f1)](https://komarev.com/ghpvc/?username=AYUSHGUPTA9506)
 
 </div>
@@ -18,71 +18,91 @@
 ## 🙋‍♂️ About Me
 
 ```python
-class Ayush:
-    degree      = "B.Tech Computer Science — Final Year (4th Year)"
-    learning    = [
-                    "Data Science",
-                    "Data Analytics",
-                    "Data Engineering",
-                    "Machine Learning",
-                    "Generative AI"
-                  ]
-    experience  = "No corporate experience yet — but projects speak louder 💪"
-    strengths   = ["Self-learner", "Project Builder", "Problem Solver"]
-    goal        = "Land my first role in Data Science / AI after graduation"
-    fun_fact    = "I learn best by building. Every project taught me more than any lecture."
+class AyushKumarGupta:
+    degree      = "B.Tech CSE — 4th Year @ KIIT, Bhubaneswar (2023–2027)"
+    cgpa        = 7.52
+    focus       = ["Generative AI", "LLM Systems", "RAG Architecture", "ML Engineering"]
+    skills      = ["LangChain", "Python", "RAG", "NLP", "Multi-Agent Systems", "Docker"]
+    strengths   = ["Production-minded builder", "System thinker", "Self-driven learner"]
+    goal        = "Full-time role in AI/ML Engineering or Generative AI after graduation"
+    status      = "🟢 Actively looking for full-time opportunities — graduating 2027"
+    fun_fact    = "I don't just study AI. I build systems with it — end to end."
 ```
 
-I'm a **final year Computer Science student** who has spent the last few years going deep into the world of **Data Science, Machine Learning, and Generative AI** — not just through courses, but by actually building real projects. I don't have corporate experience yet, but I've made sure every skill I list here is backed by a project I've built myself.
+I'm a **4th year Computer Science student at KIIT** specializing in **Generative AI, LLM engineering, and RAG-based systems**. I've built production-grade AI applications — from multi-agent research systems to AI meeting intelligence platforms — each backed by real metrics and real engineering decisions.
+
+> 🎯 **Graduating 2027 | Open to: SDE Roles · AI/ML Engineer · GenAI Developer · Data Science**
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 Featured Projects
 
-| Project | What I Built | Skills Used |
-|---|---|---|
-| 🌾 **Crop Disease Detector** | Deep learning app to predict crop diseases from images | PyTorch, TensorFlow, Streamlit |
-| 🏢 **Workflow Platform Backend** | RESTful API backend with role-based access control | FastAPI, PostgreSQL, Docker |
-| 🤖 **ML Pipeline** | End-to-end machine learning pipeline with experiment tracking | MLflow, scikit-learn, Python |
+### 🤖 RAG-Based Document Assistant
+> `Python` · `LangChain` · `ChromaDB` · `RAG` · `Vector Search`
 
-> 💡 *"I believe in learning by doing — every project here represents a real skill I've earned."*
+- Processed and indexed **500+ pages** of PDF documents into **1,000+ semantic chunks** for intelligent retrieval
+- Reduced manual document search time by **80%** using vector-based semantic search and RAG
+- Improved answer relevance via chunk overlap, embedding optimization, and source-grounded response generation — significantly reducing LLM hallucinations
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/AYUSHGUPTA9506)
 
 ---
 
-## 📚 What I've Learned
+### 🎥 VideoMind — AI Meeting Intelligence Platform
+> `Python` · `NLP` · `RAG Architecture` · `Transcription` · `Summarization`
 
-| Domain | What I Can Do |
+- Automated transcription and summarization of **60+ minute** meeting recordings, reducing note-taking effort by **90%**
+- Built an NLP pipeline extracting **150+ actionable insights** from team meetings monthly, cutting follow-up inquiries by **40%**
+- Implemented transcript-based Q&A using RAG architecture — reducing meeting review time from hours to minutes
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/AYUSHGUPTA9506)
+
+---
+
+### 🕵️ Multi-Agent Research System
+> `Python` · `LangChain` · `LLMs` · `Web Scraping` · `Agentic AI`
+
+- Built an agentic AI system with **4 specialized agents** (Search, Reader, Writer, Critic) to automate research workflows — reducing manual data gathering by **85%**
+- Developed concurrent web scraping pipelines processing **50+ sources per query**, cutting report generation time by **60%**
+- Implemented a self-correction loop via Critic agent, improving factual accuracy to **95%** and reducing output errors by **40%**
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/AYUSHGUPTA9506)
+
+---
+
+## 📚 What I Can Do For Your Team
+
+| Domain | Capability |
 |---|---|
-| 📊 **Data Analytics** | Analyze datasets, create dashboards and visualizations using Power BI & Excel |
-| 🔧 **Data Engineering** | Build data pipelines, work with databases and backend APIs |
-| 🤖 **Machine Learning** | Train, evaluate and deploy ML models for real-world problems |
-| 🧬 **Data Science** | Apply statistics, predictive modeling and EDA on complex datasets |
-| 🧠 **Generative AI** | Build LLM-powered apps, work with LangChain and modern GenAI tools |
+| 🧠 **Generative AI & LLMs** | Build RAG pipelines, LLM-powered apps, multi-agent systems using LangChain & HuggingFace |
+| 🤖 **Machine Learning** | Train, evaluate and deploy models with scikit-learn, XGBoost, LightGBM |
+| 🔍 **NLP & Search** | Semantic search, vector databases (FAISS, ChromaDB), text summarization & Q&A |
+| 📊 **Data Science** | EDA, statistical modeling, Pandas, NumPy, Matplotlib, Seaborn |
+| ⚙️ **Backend & DevOps** | API design, system architecture, Docker, PostgreSQL, MySQL |
+| 🏗️ **System Design** | DSA, OOP, DBMS, Computer Networks, OS — solid fundamentals |
 
 ---
 
-## 🛠️ Tech Stack I've Worked With
+## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+### 🧠 AI / GenAI / LLMs
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-189BCC?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Data & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Backend & DevOps
+### ⚙️ Backend, Databases & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -90,7 +110,7 @@ I'm a **final year Computer Science student** who has spent the last few years g
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -140,11 +160,14 @@ I'm a **final year Computer Science student** who has spent the last few years g
 
 <div align="center">
 
-### 🎯 Currently Open To
-**Internships · Entry-Level Roles · Freelance Projects · Collaborations**
+### 🎯 Currently Open To Full-Time Opportunities
 
-*"I may be a student, but my projects are production-ready."*
+**AI/ML Engineer · GenAI Developer · Data Scientist · SDE (AI Focus)**
 
-⭐ **Feel free to explore my repositories and reach out!** ⭐
+*"I'm a final year student with production-grade AI projects — let's build something great together."*
+
+📬 **Reach out:** azankiyagovind9506@gmail.com | [LinkedIn](https://linkedin.com/in/ayush-gupta-800976357)
+
+⭐ **Feel free to explore my repositories and connect!** ⭐
 
 </div>
